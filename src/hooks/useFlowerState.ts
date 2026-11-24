@@ -19,7 +19,7 @@ export function useFlowerState(total: number) {
     const timer = window.setTimeout(() => {
       completionSeen.current = true
       setShowCompletion(true)
-    }, 1100)
+    }, 3000)
     return () => window.clearTimeout(timer)
   }, [openedIds, total])
 
