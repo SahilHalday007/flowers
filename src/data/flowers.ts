@@ -32,7 +32,7 @@ export const flowers: Flower[] = [
     id: 1,
     colorVariant: 'rose',
     memoryLabel: 'The day we met',
-    message: 'The first thing I noticed, and the line I still remember.',
+    message: 'The first time i met you, is a feeling i cant begin to explain and will stick with me forever.',
   },
   {
     id: 2,
